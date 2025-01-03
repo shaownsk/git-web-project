@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-image: url(flag.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+p{
+    font-size: large;
+   
+}
+.text{
+   color: rgb(1, 9, 1);
+}
+ul{
+    padding-left: 10px;
+    border: 5px solid green;
+    text-align: center;
+    font-size: larger;
+    list-style: none;
+    border-radius: 4px;
+}
+.famous-part{
+    text-align: center;
+    color:white;
+    padding:30px;
+    text-shadow:2px 2px 5px blueviolet , 0px 0px 5px chartreuse;
+    font-size: 20px;
+}
